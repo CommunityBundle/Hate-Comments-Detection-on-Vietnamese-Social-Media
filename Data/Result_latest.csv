@@ -1,0 +1,95 @@
+,Unnamed: 0,id,free_text,CLEAN,OFFENSIVE,HATE,label_id
+0,0,test_jvdhclmmzh,""" thầy trò ăn lẩu thái xong quẩy sung hẳn """,0.6307759,0.18055336,0.09247982,0
+1,1,test_lfxvwhjvgl,""" son cống_hiến cho việt nam quá tuyệt_vời """,0.9903261,0.019564267,0.007625673,0
+2,2,test_sankbuuyst,""" hôm_qua son mà bình_tĩnh hơn thì ăn chắc trái chứ ko phải đâu """,0.67952335,0.14738025,0.07827091,0
+3,3,test_bnlykmknea,""" đẳng_cấp thế_giới luôn """,0.9434946,0.060293436,0.026329111,0
+4,4,test_ongyrgptbz,""" dễ_thương quá """,0.9729855,0.039308257,0.01598104,0
+5,5,test_ahqaefsuch,""" ăn lẩu xong đi ăn chuối chiên tráng_miệng anh lực ơi """,0.9898702,0.018034045,0.007862042,0
+6,6,test_ewnggqsohf,""" ngươi ao sô trên sân viêt tri thât tuyêt vơi """,0.94297826,0.062173203,0.026925448,0
+7,7,test_chrvwcwabl,""" lẩu này cay tầm cấp lượt về lẩu thái cay cấp mới hấp_dẫn son nhé """,0.9065683,0.07305272,0.035860647,0
+8,8,test_epddtuwefn,""" thích cái kiểu chế ảnh ngộ_nghĩnh này mà không biết làm """,0.48197374,0.22509572,0.119773746,0
+9,9,test_ykxjxdduym,""" hoạt_hoạ y đúc """,0.86924165,0.1100631,0.048397165,0
+10,10,test_cgoxpkcnvm,""" cơ_sở hạ_tầng như cứt mà lúc_nào cũng đòi dân phải thực_hiện """,0.5825412,0.14959069,0.11090554,0
+11,11,test_oeumqcvyye,""" ý_thức như cứt lúc_nào cũng đòi hạ_tầng v """,0.58764017,0.16822462,0.097543344,0
+12,12,test_poklbkslpz,""" thực_hiện khác với ý_thức thằng ngu """,0.026875265,0.6420227,0.4639038,1
+13,13,test_hkgowkmctu,""" bạn nói chí phải toàn mấy đứa đầu tôm lên nói vớ_vẩn """,0.6808212,0.1411626,0.08573737,0
+14,14,test_apgwchnzab,""" đang nói cha mày hả """,0.18222883,0.33781588,0.251339,1
+15,15,test_tsfmloccah,""" việt nam là một mỏ khoáng_sản kinh_tế mà khai_thác không bao_giờ cạn và đang từng ngày tăng_trưởng và phát_triển đặc_biệt là chi_phí khè khè chỉ có lương là không đổi """,0.97844267,0.027268076,0.016706057,0
+16,16,test_scefgewysl,""" tư_duy cũng như cứt mà phán_xét """,0.6255065,0.15958259,0.090962246,0
+17,17,test_bbqobqjvxq,""" bồ_câu đứng đấy thì bố thằng nào dám vượt """,0.24945952,0.24949731,0.25353986,2
+18,18,test_slbpxwljtq,""" thực_ra phạt cũng đúng nhưng xe_máy phạt triệu xe ô_tô phạt triệu cũng đủ răn_đe và làm mn có ý_thức hơn rồi phạt như kia khác_nào triệt đường sống của nhiều người cứ thử đặt vào vị_trí của những người suốt ngày pải bôn_ba trên đường kiếm tiền xem phạt như thế làm_sao còn đường sống """,0.9771002,0.02512115,0.015557027,0
+19,19,test_hfurzvtcre,""" ừ xong đến lúc xảy ra tai_nạn lại giở văn phạt k đủ nghiêm_khắc k có sức răn_đe_phạt người vi_phạm chứ có phải bạ ai phạt nấy đâu k muốn bị triệt đường sống thì đừng có vi_phạm ô giờ còn quay ra thương đc mấy thằng mấy con vi phạm_luật giao_thông cơ à """,0.83731925,0.06350235,0.05972483,0
+20,20,test_zlfjiqzoed,""" nếu có chị nào thật_sự muốn giảm béo hãy nhắn_tin cho e e sẽ gửi cho c chương_trình dinh_dưỡng cân_bằng calo chương_trình này sẽ giúp c giảm khoảng _ kg mỡ mỗi tháng đây là một kết_quả tuyệt_vời và rất phổ_biến và e cam_kết kết_quả với c """,0.9916317,0.013689915,0.0069951247,0
+21,21,test_xjirlrbebk,""" giống nhau thế nhỉ """,0.8935735,0.09645447,0.03574142,0
+22,22,test_ogmdamhvhb,""" vẫn còn gầy_gò lắm """,0.73388946,0.16248906,0.06685833,0
+23,23,test_kyumcemcgn,""" lí_do là gì vậy các bác """,0.92532384,0.0608253,0.029232213,0
+24,24,test_owpowspqiz,""" càng ngày_càng nặng_nề kkkk """,0.74825305,0.15278167,0.073503785,0
+25,25,test_qtgbtdrnpk,""" chồng tui thì ngược_lại """,0.9421546,0.059696846,0.025728952,0
+26,26,test_voocvmrtrc,""" cũng thấy giống nha """,0.97589064,0.040346522,0.014344653,0
+27,27,test_cuadwybrpt,""" chồng tui lúc ế gầy_nhom lúc quen và lấy về vẫn như con bọ_ngựa như xưa ko thay_đổi """,0.56900275,0.14154994,0.11565292,0
+28,28,test_ryvbcgyfcu,""" dễ_thương ôm cái nhé chụt chụt chụt """,0.9787196,0.027536966,0.014017353,0
+29,29,test_jxswirtrvz,""" thôi mà thôi mà để tui đưa đi làm cho yên_tâm nhoa """,0.98170555,0.023840977,0.01059992,0
+30,30,test_ewbbixzysj,""" đi sớm hơn chút là được """,0.98573405,0.0237896,0.009683285,0
+31,31,test_wlfcjxhezp,""" sếp cập_nhật tình_hình hơi muộn """,0.88368,0.08789129,0.039253797,0
+32,32,test_oqxnszgrkh,""" sao đéo dậy sớm mà đi """,0.077332415,0.50497895,0.25187013,1
+33,33,test_wwqlohqsbv,""" cấm rượu_bia mẹ đi uống đắng ngắc chả hiểu ngon_lành gì mà đắt thấy mẹ """,0.22150485,0.31232706,0.2151718,1
+34,34,test_tecfdaxpwv,""" đúng rồi còn bị ép uống nữa ép cái con cặc """,0.18524973,0.30627018,0.28356776,1
+35,35,test_qnoybqfjbm,""" cái này theo tôi tìm_hiểu thì uống mấy có lần đầu thì ko thích nhưng về sau uống lại thì như kiểu nghiện cảm_giác ko uống thì cảm_thấy khó_chịu dù nó đắng """,0.9204582,0.06707266,0.028139519,0
+36,36,test_alihwzbqls,""" chải cl cơ_địa không uống được mà cứ ép k uống kêu bede """,0.78650904,0.117268,0.048597638,0
+37,37,test_lfnelxgszg,""" không quản_lý được thì cấm thôi """,0.91381186,0.08143648,0.030765623,0
+38,38,test_fzmwzzugew,""" tệ_nạn thì quản_lý bằng cách cấm chứ muốn như nào """,0.9205589,0.059367225,0.02581988,0
+39,39,test_nmlaqhwuar,""" mạng xã_hội thì có gì mà tệ_nạn """,0.89557415,0.06632343,0.037024643,0
+40,40,test_jdtlrdwvnx,""" thuốc_lá truyền_thống nó lợi_nhuận rất lớn nên khó cấm """,0.9108967,0.069586664,0.031356882,0
+41,41,test_djpgdwunaz,""" riêng thuốc_lá thì thu về quá trời thuế cho đất_nước tạo công ăn việc_làm quá nhiều người quan_trọng nhất là thuốc_lá có hại nhưng hại không bằng thuốc_lá điện_tử rồi giới trẻ thể_hiện với tlđt quá nhiều rồi còn bỏ thêm chất gây nghiện chất cấm các kiểu """,0.9933616,0.010422878,0.0054328376,0
+42,42,test_llflyfluic,""" cấm thuốc_lá điện_tử thì lý_do có hại chỉ là lý_do nhỏ nhấtv thứ nhất là không kiểm thuế được khi tất_cả hàng đều là nhập lậu từ trung quốc thứ là không có kiểm_định như thuốc_lá truyền_thống nó đã được kiểm_định và áp_thuế chứ hàng nhập lậu như thuốc_lá điện_tử ai kiểm_định """,0.85055184,0.07457575,0.064609684,0
+43,43,test_ehbqpfnbrw,""" cứ đóng thuế thì sẽ không bị cấm còn không đóng thuế thì nó là hàng lậu """,0.8382964,0.07426462,0.047898926,0
+44,44,test_shhioshjga,""" tuổi loz luôn đi làm điếu thuốc cái đã """,0.86762005,0.083552934,0.03447149,0
+45,45,test_hxkcdxdlau,""" những thứ mang lại tiếng cười thì cấm """,0.92726254,0.061576817,0.02870656,0
+46,46,test_pvyecgmdax,""" thuốc_lá thuốc_lào không cấm được đâu mà cứ than sao không cấm """,0.865515,0.08755887,0.042348437,0
+47,47,test_lfzllmjisu,""" sau_này muốn đi ra đường phải có giấy_phép đi_lại không thì bị phạt chục củ """,0.94471765,0.048057564,0.023145588,0
+48,48,test_lvqdzqeowl,""" vcl thật """,0.21293604,0.3877349,0.16368362,1
+49,49,test_otvotdridw,""" clm """,0.7037808,0.1960296,0.06963881,0
+50,50,test_nucyagcwtg,""" bạn đã dùng hết trí_tưởng_tượng của năm rồi """,0.90979886,0.062305234,0.037726317,0
+51,51,test_gqcpsovxwq,""" hủ cmt đái vào bát cơm của mày à mà mày nhảy_dựng lên như chó bị giẫm đuôi vậy thứ dẩm lồn """,0.020650305,0.60339135,0.5481247,1
+52,52,test_erczvboyhv,""" tuyệt_vời lắm bạn tôi ơi """,0.9676193,0.036689278,0.017401686,0
+53,53,test_uwsotmitaq,""" quá tuyệt_vời """,0.9699231,0.04619762,0.015273853,0
+54,54,test_hxtfzbpoot,""" xuân_son mãi đỉnh """,0.8856339,0.100095324,0.040487118,0
+55,55,test_twbrjrolla,""" tuyệt_vời lắm em_trai """,0.96473193,0.038621742,0.019960854,0
+56,56,test_lvtxtwueri,""" việt nam_vô_địch """,0.71208453,0.16511518,0.08438044,0
+57,57,test_mggznegwjq,""" chúc_mừng xuân_son cảm_ơn son đã gánh hàng công tuyển việt vam mong anh trận sau giữ phong_độ ko cần cố quá anh nhé chấn_thương là việt nam khổ """,0.9930115,0.011001345,0.0062339907,0
+58,58,test_pgjikclwsb,""" nói_chung là đéo thể tin bọn shark dchiểu chứ """,0.033209026,0.586959,0.38085312,1
+59,59,test_frubtvnmie,""" ăn hao_vậy trời lần tới đói bụng lấy gì ăn """,0.82955146,0.086025394,0.04361088,0
+60,60,test_wblrmwfdxo,""" ăn mặn quá khát nước sao trời """,0.9885662,0.020952448,0.00864649,0
+61,61,test_widezxogis,""" người nói không rõ người nghe không hiểu dc """,0.85482764,0.10751978,0.04079838,0
+62,62,test_hbpsucxfyp,""" cho nó chết cụ đi """,0.3511463,0.2525694,0.14610545,0
+63,63,test_nqjqshqzid,""" địa_chỉ thằng mặt lồn """,0.06683195,0.50598204,0.31680045,1
+64,64,test_bgbvxzwyri,""" khúc đầu nó ngoan_ngoãn khuyên_nhủ khúc sau nó chửi mày thừa tiền thì đưa tao tiêu """,0.050542537,0.46050182,0.44575936,1
+65,65,test_sxplgiebft,""" luyện nó vài ngày nó chửi văn_thơ cẩn_thận luôn """,0.27354294,0.27649632,0.2108108,1
+66,66,test_qwdcihqvly,""" lúc nó xưng em anh lúc nó tôi bạn """,0.84567595,0.070605874,0.05409051,0
+67,67,test_ahnnxintpe,""" không biết là lỗi hay tính_năng vì mình cũng hay tôi bạn với vợ """,0.94284153,0.043023992,0.028980315,0
+68,68,test_spbndgljia,""" tính_năng cả đấy bác truớc em hay dùng gpt nó xưng mày tao luôn cho cẩn_thận """,0.14001915,0.3144391,0.34323215,2
+69,69,test_hajdwzzkbq,""" ủa sao bố_mẹ vợ thì được cưng mà bố_mẹ chồng chì bị hắt_hủi vậy với lại ai mà vừa có vợ vừa có chồng vậy """,0.13420309,0.2392204,0.40098584,2
+70,70,test_vwbmrsefwm,""" đáng yêu phết đấy """,0.9439445,0.06442535,0.024651024,0
+71,71,test_ufvjzabubm,""" húp mỏi mồm cũng đéo ra nước """,0.06833476,0.55597204,0.26165938,1
+72,72,test_lrchmhldwp,""" đcm """,0.419411,0.30253366,0.10423672,0
+73,73,test_nwlletkgrx,""" ra cho đúng người chứ loại mày thì ra làm gì gái yêu nước theo định_nghĩa của mày thì ra nước mất kiểm_soát vì không làm_chủ được đất_nước à """,0.78096014,0.103812605,0.071919344,0
+74,74,test_foviybvzqs,""" tôi lỡ đâm đổ cổng rồi cho xin_lỗi nhé """,0.9952352,0.012067352,0.004320161,0
+75,75,test_nbcgcrtqgz,""" đm công_khai ăn cứt cali luôn mà mà t chưa bao h gặp con nào phản_động mà xinh hay sống tử_tế nhé toàn những đứa nhìn như đc đẻ từ lỗ_đít ra mồm thì đạo_lí mà sống như cái con chem chép ăn_nói thì lấc ca lấc_cấc cứ nghĩ mình cầm_đầu thiên_hạ """,0.2982189,0.29472372,0.23582125,0
+76,76,test_cjqxywxrzu,""" mãi chê chê nhiềuchê siêu nhìunói chung là chê """,0.9052082,0.069452584,0.034618802,0
+77,77,test_evlbngadhk,""" bố thằng điên địt_mẹ chúng_mày bọn việt tân bú buồi tao """,0.0019940843,0.769786,0.80837977,2
+78,78,test_gcyxugnhtu,""" vcl nó lừa tình đc cả nam vs nữ luôn ạ nhân_tài đây chứ đâu """,0.0658407,0.47133654,0.3760366,1
+79,79,test_lnfngnmlvb,""" trên cả tuyệt_vời """,0.9564021,0.054178018,0.022957753,0
+80,80,test_jtrcbkxudh,""" công_chúa buồi to chết cười ad """,0.35660526,0.2800224,0.14942917,0
+81,81,test_xaynqlzgwc,""" giờ nhiều thằng ngu như mày lắm """,0.0038404693,0.77988464,0.67535114,1
+82,82,test_szjvtcpzat,""" vl cứ tưởng bao_bì """,0.032237347,0.61377,0.35923487,1
+83,83,test_mijhrleuhb,""" vl làm_quen trên mạng mà ông a bị lừa hẳn triệu ko cái dại nào bằng cái dại nào """,0.09682369,0.4685767,0.28231,1
+84,84,test_nsybbljnvd,""" thèm buồi mãn_tính ko bỏ được """,0.4581325,0.24912421,0.10566395,0
+85,85,test_qctlfelrxv,""" cha_đẻ mẹ thằng bố tiên_sư thằng bố nhà m đéo dạy đc m m đi trộm gà trộm chó nhà bà """,0.001433464,0.77863586,0.8658176,2
+86,86,test_pfplshsmfx,""" clm thầy t trò_đùa của cm à """,0.45458326,0.20479095,0.16680849,0
+87,87,test_ohfenryqof,""" nhưng tui vẫn éo hiểu s nghe nhạc ngọt bị dí đến vậy """,0.37371022,0.2743184,0.17071967,0
+88,88,test_jeyrxmhkvj,""" thật_ra bài lần cuối trong hoàn_cảnh nào cũng hay thôi là người hưởng_thụ âm_nhạc phải nhập hồn vào nhân_vật trong bài hát mới hay """,0.92362195,0.052405663,0.028221713,0
+89,89,test_dhkzyktyoj,""" tao là kẹo ý_kiến buồi j không mấy thằng nhóc nghe nhạc_lụy """,0.0958831,0.42421567,0.31403598,1
+90,90,test_qzbesvyafr,""" người hàn khi biết nhà tao có cái tủ quần_áo mà ngạc_nhiên vcl kia kìa """,0.23441759,0.3190677,0.21568286,1
+91,91,test_pjodeoxikp,""" được và mất buồn và vui biết_ơn và trân_trọng """,0.9668742,0.028389808,0.019075355,0
+92,92,test_nmntegllwc,""" anh trai năm mới nhiều sức_khoẻ thành_công và hạnh_phúc nhé """,0.9969597,0.008288932,0.0033493468,0
+93,93,test_qebjmufaiq,""" bởi_vì chúng_ta không ngừng bỏ_cuộc """,0.9833294,0.024963645,0.01315458,0

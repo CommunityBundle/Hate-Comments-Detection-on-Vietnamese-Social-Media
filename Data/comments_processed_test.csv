@@ -1,0 +1,95 @@
+Unnamed: 0,id,free_text,CLEAN,OFFENSIVE,HATE,label_id
+0,test_jvdhclmmzh,""" thầy trò ăn lẩu thái xong quẩy sung hẳn """,1,0,0,0
+1,test_lfxvwhjvgl,""" son cống_hiến cho việt nam quá tuyệt_vời """,1,0,0,0
+2,test_sankbuuyst,""" hôm_qua son mà bình_tĩnh hơn thì ăn chắc trái chứ ko phải đâu """,1,0,0,0
+3,test_bnlykmknea,""" đẳng_cấp thế_giới luôn """,1,0,0,0
+4,test_ongyrgptbz,""" dễ_thương quá """,1,0,0,0
+5,test_ahqaefsuch,""" ăn lẩu xong đi ăn chuối chiên tráng_miệng anh lực ơi """,1,0,0,0
+6,test_ewnggqsohf,""" ngươi ao sô trên sân viêt tri thât tuyêt vơi """,1,0,0,0
+7,test_chrvwcwabl,""" lẩu này cay tầm cấp lượt về lẩu thái cay cấp mới hấp_dẫn son nhé """,1,0,0,0
+8,test_epddtuwefn,""" thích cái kiểu chế ảnh ngộ_nghĩnh này mà không biết làm """,1,0,0,0
+9,test_ykxjxdduym,""" hoạt_hoạ y đúc """,1,0,0,0
+10,test_cgoxpkcnvm,""" cơ_sở hạ_tầng như cứt mà lúc_nào cũng đòi dân phải thực_hiện """,1,0,0,0
+11,test_oeumqcvyye,""" ý_thức như cứt lúc_nào cũng đòi hạ_tầng v """,1,0,0,0
+12,test_poklbkslpz,""" thực_hiện khác với ý_thức thằng ngu """,0,0,1,2
+13,test_hkgowkmctu,""" bạn nói chí phải toàn mấy đứa đầu tôm lên nói vớ_vẩn """,1,0,0,0
+14,test_apgwchnzab,""" đang nói cha mày hả """,1,0,0,0
+15,test_tsfmloccah,""" việt nam là một mỏ khoáng_sản kinh_tế mà khai_thác không bao_giờ cạn và đang từng ngày tăng_trưởng và phát_triển đặc_biệt là chi_phí khè khè chỉ có lương là không đổi """,1,0,0,0
+16,test_scefgewysl,""" tư_duy cũng như cứt mà phán_xét """,1,0,0,0
+17,test_bbqobqjvxq,""" bồ_câu đứng đấy thì bố thằng nào dám vượt """,1,0,0,0
+18,test_slbpxwljtq,""" thực_ra phạt cũng đúng nhưng xe_máy phạt triệu xe ô_tô phạt triệu cũng đủ răn_đe và làm mn có ý_thức hơn rồi phạt như kia khác_nào triệt đường sống của nhiều người cứ thử đặt vào vị_trí của những người suốt ngày pải bôn_ba trên đường kiếm tiền xem phạt như thế làm_sao còn đường sống """,1,0,0,0
+19,test_hfurzvtcre,""" ừ xong đến lúc xảy ra tai_nạn lại giở văn phạt k đủ nghiêm_khắc k có sức răn_đe_phạt người vi_phạm chứ có phải bạ ai phạt nấy đâu k muốn bị triệt đường sống thì đừng có vi_phạm ô giờ còn quay ra thương đc mấy thằng mấy con vi phạm_luật giao_thông cơ à """,1,0,0,0
+20,test_zlfjiqzoed,""" nếu có chị nào thật_sự muốn giảm béo hãy nhắn_tin cho e e sẽ gửi cho c chương_trình dinh_dưỡng cân_bằng calo chương_trình này sẽ giúp c giảm khoảng _ kg mỡ mỗi tháng đây là một kết_quả tuyệt_vời và rất phổ_biến và e cam_kết kết_quả với c """,1,0,0,0
+21,test_xjirlrbebk,""" giống nhau thế nhỉ """,1,0,0,0
+22,test_ogmdamhvhb,""" vẫn còn gầy_gò lắm """,1,0,0,0
+23,test_kyumcemcgn,""" lí_do là gì vậy các bác """,1,0,0,0
+24,test_owpowspqiz,""" càng ngày_càng nặng_nề kkkk """,1,0,0,0
+25,test_qtgbtdrnpk,""" chồng tui thì ngược_lại """,1,0,0,0
+26,test_voocvmrtrc,""" cũng thấy giống nha """,1,0,0,0
+27,test_cuadwybrpt,""" chồng tui lúc ế gầy_nhom lúc quen và lấy về vẫn như con bọ_ngựa như xưa ko thay_đổi """,1,0,0,0
+28,test_ryvbcgyfcu,""" dễ_thương ôm cái nhé chụt chụt chụt """,1,0,0,0
+29,test_jxswirtrvz,""" thôi mà thôi mà để tui đưa đi làm cho yên_tâm nhoa """,1,0,0,0
+30,test_ewbbixzysj,""" đi sớm hơn chút là được """,1,0,0,0
+31,test_wlfcjxhezp,""" sếp cập_nhật tình_hình hơi muộn """,1,0,0,0
+32,test_oqxnszgrkh,""" sao đéo dậy sớm mà đi """,0,1,0,1
+33,test_wwqlohqsbv,""" cấm rượu_bia mẹ đi uống đắng ngắc chả hiểu ngon_lành gì mà đắt thấy mẹ """,0,1,0,1
+34,test_tecfdaxpwv,""" đúng rồi còn bị ép uống nữa ép cái con cặc """,0,1,0,1
+35,test_qnoybqfjbm,""" cái này theo tôi tìm_hiểu thì uống mấy có lần đầu thì ko thích nhưng về sau uống lại thì như kiểu nghiện cảm_giác ko uống thì cảm_thấy khó_chịu dù nó đắng """,1,0,0,0
+36,test_alihwzbqls,""" chải cl cơ_địa không uống được mà cứ ép k uống kêu bede """,0,1,0,1
+37,test_lfnelxgszg,""" không quản_lý được thì cấm thôi """,1,0,0,0
+38,test_fzmwzzugew,""" tệ_nạn thì quản_lý bằng cách cấm chứ muốn như nào """,1,0,0,0
+39,test_nmlaqhwuar,""" mạng xã_hội thì có gì mà tệ_nạn """,1,0,0,0
+40,test_jdtlrdwvnx,""" thuốc_lá truyền_thống nó lợi_nhuận rất lớn nên khó cấm """,1,0,0,0
+41,test_djpgdwunaz,""" riêng thuốc_lá thì thu về quá trời thuế cho đất_nước tạo công ăn việc_làm quá nhiều người quan_trọng nhất là thuốc_lá có hại nhưng hại không bằng thuốc_lá điện_tử rồi giới trẻ thể_hiện với tlđt quá nhiều rồi còn bỏ thêm chất gây nghiện chất cấm các kiểu """,1,0,0,0
+42,test_llflyfluic,""" cấm thuốc_lá điện_tử thì lý_do có hại chỉ là lý_do nhỏ nhấtv thứ nhất là không kiểm thuế được khi tất_cả hàng đều là nhập lậu từ trung quốc thứ là không có kiểm_định như thuốc_lá truyền_thống nó đã được kiểm_định và áp_thuế chứ hàng nhập lậu như thuốc_lá điện_tử ai kiểm_định """,1,0,0,0
+43,test_ehbqpfnbrw,""" cứ đóng thuế thì sẽ không bị cấm còn không đóng thuế thì nó là hàng lậu """,1,0,0,0
+44,test_shhioshjga,""" tuổi loz luôn đi làm điếu thuốc cái đã """,0,1,0,1
+45,test_hxkcdxdlau,""" những thứ mang lại tiếng cười thì cấm """,1,0,0,0
+46,test_pvyecgmdax,""" thuốc_lá thuốc_lào không cấm được đâu mà cứ than sao không cấm """,1,0,0,0
+47,test_lfzllmjisu,""" sau_này muốn đi ra đường phải có giấy_phép đi_lại không thì bị phạt chục củ """,1,0,0,0
+48,test_lvqdzqeowl,""" vcl thật """,0,1,0,1
+49,test_otvotdridw,""" clm """,0,1,0,1
+50,test_nucyagcwtg,""" bạn đã dùng hết trí_tưởng_tượng của năm rồi """,1,0,0,0
+51,test_gqcpsovxwq,""" hủ cmt đái vào bát cơm của mày à mà mày nhảy_dựng lên như chó bị giẫm đuôi vậy thứ dẩm lồn """,0,0,1,2
+52,test_erczvboyhv,""" tuyệt_vời lắm bạn tôi ơi """,1,0,0,0
+53,test_uwsotmitaq,""" quá tuyệt_vời """,1,0,0,0
+54,test_hxtfzbpoot,""" xuân_son mãi đỉnh """,1,0,0,0
+55,test_twbrjrolla,""" tuyệt_vời lắm em_trai """,1,0,0,0
+56,test_lvtxtwueri,""" việt nam_vô_địch """,1,0,0,0
+57,test_mggznegwjq,""" chúc_mừng xuân_son cảm_ơn son đã gánh hàng công tuyển việt vam mong anh trận sau giữ phong_độ ko cần cố quá anh nhé chấn_thương là việt nam khổ """,1,0,0,0
+58,test_pgjikclwsb,""" nói_chung là đéo thể tin bọn shark dchiểu chứ """,0,1,0,1
+59,test_frubtvnmie,""" ăn hao_vậy trời lần tới đói bụng lấy gì ăn """,1,0,0,0
+60,test_wblrmwfdxo,""" ăn mặn quá khát nước sao trời """,1,0,0,0
+61,test_widezxogis,""" người nói không rõ người nghe không hiểu dc """,1,0,0,0
+62,test_hbpsucxfyp,""" cho nó chết cụ đi """,0,0,1,2
+63,test_nqjqshqzid,""" địa_chỉ thằng mặt lồn """,0,0,1,2
+64,test_bgbvxzwyri,""" khúc đầu nó ngoan_ngoãn khuyên_nhủ khúc sau nó chửi mày thừa tiền thì đưa tao tiêu """,1,0,0,0
+65,test_sxplgiebft,""" luyện nó vài ngày nó chửi văn_thơ cẩn_thận luôn """,1,0,0,0
+66,test_qwdcihqvly,""" lúc nó xưng em anh lúc nó tôi bạn """,1,0,0,0
+67,test_ahnnxintpe,""" không biết là lỗi hay tính_năng vì mình cũng hay tôi bạn với vợ """,1,0,0,0
+68,test_spbndgljia,""" tính_năng cả đấy bác truớc em hay dùng gpt nó xưng mày tao luôn cho cẩn_thận """,1,0,0,0
+69,test_hajdwzzkbq,""" ủa sao bố_mẹ vợ thì được cưng mà bố_mẹ chồng chì bị hắt_hủi vậy với lại ai mà vừa có vợ vừa có chồng vậy """,1,0,0,0
+70,test_vwbmrsefwm,""" đáng yêu phết đấy """,1,0,0,0
+71,test_ufvjzabubm,""" húp mỏi mồm cũng đéo ra nước """,0,1,0,1
+72,test_lrchmhldwp,""" đcm """,0,1,0,1
+73,test_nwlletkgrx,""" ra cho đúng người chứ loại mày thì ra làm gì gái yêu nước theo định_nghĩa của mày thì ra nước mất kiểm_soát vì không làm_chủ được đất_nước à """,1,0,0,0
+74,test_foviybvzqs,""" tôi lỡ đâm đổ cổng rồi cho xin_lỗi nhé """,1,0,0,0
+75,test_nbcgcrtqgz,""" đm công_khai ăn cứt cali luôn mà mà t chưa bao h gặp con nào phản_động mà xinh hay sống tử_tế nhé toàn những đứa nhìn như đc đẻ từ lỗ_đít ra mồm thì đạo_lí mà sống như cái con chem chép ăn_nói thì lấc ca lấc_cấc cứ nghĩ mình cầm_đầu thiên_hạ """,0,1,0,1
+76,test_cjqxywxrzu,""" mãi chê chê nhiềuchê siêu nhìunói chung là chê """,1,0,0,0
+77,test_evlbngadhk,""" bố thằng điên địt_mẹ chúng_mày bọn việt tân bú buồi tao """,0,0,1,2
+78,test_gcyxugnhtu,""" vcl nó lừa tình đc cả nam vs nữ luôn ạ nhân_tài đây chứ đâu """,0,1,0,1
+79,test_lnfngnmlvb,""" trên cả tuyệt_vời """,1,0,0,0
+80,test_jtrcbkxudh,""" công_chúa buồi to chết cười ad """,0,1,0,1
+81,test_xaynqlzgwc,""" giờ nhiều thằng ngu như mày lắm """,0,0,1,2
+82,test_szjvtcpzat,""" vl cứ tưởng bao_bì """,0,1,0,1
+83,test_mijhrleuhb,""" vl làm_quen trên mạng mà ông a bị lừa hẳn triệu ko cái dại nào bằng cái dại nào """,0,1,0,1
+84,test_nsybbljnvd,""" thèm buồi mãn_tính ko bỏ được """,0,1,0,1
+85,test_qctlfelrxv,""" cha_đẻ mẹ thằng bố tiên_sư thằng bố nhà m đéo dạy đc m m đi trộm gà trộm chó nhà bà """,0,0,1,2
+86,test_pfplshsmfx,""" clm thầy t trò_đùa của cm à """,0,1,0,1
+87,test_ohfenryqof,""" nhưng tui vẫn éo hiểu s nghe nhạc ngọt bị dí đến vậy """,1,0,0,0
+88,test_jeyrxmhkvj,""" thật_ra bài lần cuối trong hoàn_cảnh nào cũng hay thôi là người hưởng_thụ âm_nhạc phải nhập hồn vào nhân_vật trong bài hát mới hay """,1,0,0,0
+89,test_dhkzyktyoj,""" tao là kẹo ý_kiến buồi j không mấy thằng nhóc nghe nhạc_lụy """,0,1,0,1
+90,test_qzbesvyafr,""" người hàn khi biết nhà tao có cái tủ quần_áo mà ngạc_nhiên vcl kia kìa """,0,1,0,1
+91,test_pjodeoxikp,""" được và mất buồn và vui biết_ơn và trân_trọng """,1,0,0,0
+92,test_nmntegllwc,""" anh trai năm mới nhiều sức_khoẻ thành_công và hạnh_phúc nhé """,1,0,0,0
+93,test_qebjmufaiq,""" bởi_vì chúng_ta không ngừng bỏ_cuộc """,1,0,0,0
