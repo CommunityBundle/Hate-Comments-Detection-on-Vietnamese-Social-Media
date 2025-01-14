@@ -1,1 +1,1 @@
-# Hate-Comments-Detection-on-Vietnamese-Social-Media
+An Implementation based on the research paper-Hate Speech Detection on Vietnamese Social MediaText using the Bi-GRU-LSTM-CNN Model https://www.researchgate.net/publication/353347695_Hate_Speech_Detection_on_Vietnamese_Social_Media_Text_using_the_Bi-GRU-LSTM-CNN_Model
